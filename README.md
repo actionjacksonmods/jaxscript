@@ -9,7 +9,7 @@ Install JaxCore.
 Download jaxscript-version.jpack to somewhere.  
 Open Terminal or Command Prompt.  
 CD to where the file is.  
-Run this command - jax -PACKAGE install jaxscript ~jaxscript-version.jpack. 
+Run this command. jax -PACKAGE install jaxscript ~jaxscript-version.jpack. 
 Let it install JaxScript.  
 Done!  
 
